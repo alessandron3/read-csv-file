@@ -7,6 +7,8 @@
 #include <conio.h> //Biblioteca para windows
 #endif
 
+void readFile();
+
 int main(){
     readFile();
     return 1;
