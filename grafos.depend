@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1478627949 source:/home/alessandrosantos/dev/workspace/Dijkstra/grafos/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<curses.h>
+	<conio.h>
+
